@@ -6,6 +6,6 @@ PyChain Ledger was created as a demonstration of a blockchain ledger system, usi
 
 Below is an example of how a transaction is recorded on PyChain. The Block Difficulty can also be adjusted as required. 
 
-![alt=""](Images/PyChain.gif)
+![alt=""](Starter_Code/Images/PyChain.gif)
 
 
